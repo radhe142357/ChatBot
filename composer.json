@@ -7,8 +7,12 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "cboden/ratchet": "^0.4.4",
+        "guzzlehttp/psr7": "1.9.1 as 2.7.1",
         "laravel/framework": "^12.0",
-        "laravel/tinker": "^2.10.1"
+        "laravel/tinker": "^2.10.1",
+        "symfony/http-foundation": "7.3.1 as 5.4.0",
+        "symfony/routing": "7.3.0 as 5.4.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
